@@ -33,7 +33,7 @@ Arqel.Links = {
 }
 
 Arqel.Storage = {
-    FileName = "Arqel_Key",
+    FileName = "Ascend_key_paid",
     Remember = true,
     AutoLoad = true
 }
