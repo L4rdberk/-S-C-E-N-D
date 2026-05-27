@@ -138,7 +138,7 @@ local FallbackIcons = {
 }
 
 local CachedIcons = {}
-local FolderName = "ASCEND PAID"
+local FolderName = "ASCEND KEY"
 local IconsFolder = "Icons"
 local DefaultLogoAsset = "rbxassetid://95721401302279"
 
